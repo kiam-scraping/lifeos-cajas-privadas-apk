@@ -1,0 +1,1 @@
+﻿# LIFE OS - Cajas Privadas APK`n`nDistribucion solo de la aplicacion Android. No contiene cajas privadas, credenciales ni claves de Totem. La sincronizacion al PC requiere Tailscale y emparejamiento autorizado.
